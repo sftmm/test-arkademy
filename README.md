@@ -18,4 +18,4 @@ Cara menjalankan aplikasi
 - buka __localhost__
 
 **Hasil Soal Nomor 6**
-![alt text](https://github.com/sftmm/test-arkademy/blob/master/screenshot.png)
+![alt text](https://github.com/sftmm/test-arkademy/blob/master/screenshot.JPG)
